@@ -1,0 +1,2 @@
+# REVA-University-college-uniform-detector-using-deep-learning
+This project is made by Abhishek Bhandare as A mini-project for college course. This project detects whether the student is wearing college uniform or not. I have trained my dataset of REVA University college's uniform. This project is done in Jupyter notebook. I have used Keras for training the model. You can use this code to create a uniform detector for your college or any other industry
